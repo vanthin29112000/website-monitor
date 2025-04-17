@@ -1378,3 +1378,43 @@ Trang thư viện hình ảnh | https://thuvienanh.ktxhcm.edu.vn | ONLINE | HTTP
 Trang CNTT-DL | https://cntt-dl.ktxhcm.edu.vn/ | OFFLINE | HTTP 403 | loadTime=74ms | iframeBlocked=false | screenshot=N/A
 Trang xác thực thông tin | https://id.ktxhcm.edu.vn/ | OFFLINE | HTTP 403 | loadTime=63ms | iframeBlocked=false | screenshot=N/A
 Trang tham quan | https://thamquan.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=260ms | iframeBlocked=false | screenshot=/screenshots/trang_tham_quan.png
+=================== 
+2025-04-17T12:06:06.281Z
+===================
+Trang sinh viên | http://sv.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=1862ms | iframeBlocked=false | screenshot=N/A
+Trang chủ trung tâm | https://ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=2615ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý sinh viên | https://ql.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=577ms | iframeBlocked=false | screenshot=/screenshots/trang_qu_n_l__sinh_vi_n.png
+Trang báo cáo thông minh | https://bi.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=1540ms | iframeBlocked=false | screenshot=/screenshots/trang_b_o_c_o_th_ng_minh.png
+Trang quản lý FaceID | https://face.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=356ms | iframeBlocked=false | screenshot=/screenshots/trang_qu_n_l__faceid.png
+Trang khảo sát | https://khaosat.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=399ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý IOC | https://ioc.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=2434ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý tài sản | https://qlts.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=1057ms | iframeBlocked=false | screenshot=/screenshots/trang_qu_n_l__t_i_s_n.png
+Trang quản lý cây xanh | https://qlcayxanh.ktxhcm.edu.vn/user/login | ONLINE | HTTP 200 | loadTime=272ms | iframeBlocked=false | screenshot=N/A
+Trang không gian văn hóa HCM | https://kgvhhcm.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=926ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý tài khoản | https://taikhoan.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=101ms | iframeBlocked=false | screenshot=N/A
+Trang hướng dẫn | https://huongdan.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=756ms | iframeBlocked=false | screenshot=N/A
+Trang thanh tra pháp chế | https://ttpc.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=1416ms | iframeBlocked=false | screenshot=N/A
+Trang thư viện hình ảnh | https://thuvienanh.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=479ms | iframeBlocked=false | screenshot=N/A
+Trang CNTT-DL | https://cntt-dl.ktxhcm.edu.vn/ | OFFLINE | HTTP 403 | loadTime=92ms | iframeBlocked=false | screenshot=N/A
+Trang xác thực thông tin | https://id.ktxhcm.edu.vn/ | OFFLINE | HTTP 403 | loadTime=105ms | iframeBlocked=false | screenshot=N/A
+Trang tham quan | https://thamquan.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=324ms | iframeBlocked=false | screenshot=/screenshots/trang_tham_quan.png
+=================== 
+2025-04-17T12:11:06.320Z
+===================
+Trang sinh viên | http://sv.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=1807ms | iframeBlocked=false | screenshot=N/A
+Trang chủ trung tâm | https://ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=2561ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý sinh viên | https://ql.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=558ms | iframeBlocked=false | screenshot=/screenshots/trang_qu_n_l__sinh_vi_n.png
+Trang báo cáo thông minh | https://bi.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=1532ms | iframeBlocked=false | screenshot=/screenshots/trang_b_o_c_o_th_ng_minh.png
+Trang quản lý FaceID | https://face.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=339ms | iframeBlocked=false | screenshot=/screenshots/trang_qu_n_l__faceid.png
+Trang khảo sát | https://khaosat.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=469ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý IOC | https://ioc.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=2405ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý tài sản | https://qlts.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=1167ms | iframeBlocked=false | screenshot=/screenshots/trang_qu_n_l__t_i_s_n.png
+Trang không gian văn hóa HCM | https://kgvhhcm.ktxhcm.edu.vn/ | ONLINE | HTTP 200 | loadTime=762ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý cây xanh | https://qlcayxanh.ktxhcm.edu.vn/user/login | ONLINE | HTTP 200 | loadTime=318ms | iframeBlocked=false | screenshot=N/A
+Trang quản lý tài khoản | https://taikhoan.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=114ms | iframeBlocked=false | screenshot=N/A
+Trang thanh tra pháp chế | https://ttpc.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=616ms | iframeBlocked=false | screenshot=N/A
+Trang hướng dẫn | https://huongdan.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=1098ms | iframeBlocked=false | screenshot=N/A
+Trang thư viện hình ảnh | https://thuvienanh.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=529ms | iframeBlocked=false | screenshot=N/A
+Trang CNTT-DL | https://cntt-dl.ktxhcm.edu.vn/ | OFFLINE | HTTP 403 | loadTime=80ms | iframeBlocked=false | screenshot=N/A
+Trang tham quan | https://thamquan.ktxhcm.edu.vn | ONLINE | HTTP 200 | loadTime=577ms | iframeBlocked=false | screenshot=/screenshots/trang_tham_quan.png
+Trang xác thực thông tin | https://id.ktxhcm.edu.vn/ | OFFLINE | HTTP 403 | loadTime=87ms | iframeBlocked=false | screenshot=N/A
