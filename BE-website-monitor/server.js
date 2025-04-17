@@ -36,37 +36,16 @@ async function loadWebsites() {
 
 // Khởi tạo Puppeteer (singleton)
 async function launchBrowser() {
-  if (browser) return browser;
-
-  let launchOptions = {
+  const opts = {
     headless: true,
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--no-zygote',
-    ],
+    args: [ '--no-sandbox','--disable-setuid-sandbox' ],
   };
-
-  // Chỉ override path nếu đang chạy trên Windows
   if (process.platform === 'win32') {
-    const exePath = path.join(
-      __dirname,
-      'chromium',
-      'win64-135.0.7049.84',
-      'chrome-win64',
-      'chrome.exe'
-    );
-    console.log('> Running on Windows, using chromium at', exePath);
-    launchOptions.executablePath = exePath;
+    opts.executablePath = path.join(__dirname, 'chromium/.../chrome.exe');
   } else {
-    // In ra path mà Puppeteer sẽ dùng
-    console.log('> Linux detected, puppeteer.executablePath():', puppeteer.executablePath());
-    // Không chỉ định executablePath, Puppeteer sẽ dùng bản Linux trong node_modules
+    console.log('Using default Puppeteer executable:', puppeteer.executablePath());
   }
-
-  browser = await puppeteer.launch(launchOptions);
-  return browser;
+  return puppeteer.launch(opts);
 }
 
 // Delay helper
