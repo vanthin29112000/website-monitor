@@ -1,0 +1,19 @@
+[
+    { "name": "Trang chủ trung tâm", "url": "https://ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang sinh viên", "url": "http://sv.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang quản lý sinh viên", "url": "https://ql.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": true },
+    { "name": "Trang báo cáo thông minh", "url": "https://bi.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": true },
+    { "name": "Trang quản lý FaceID", "url": "https://face.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": true },
+    { "name": "Trang khảo sát", "url": "https://khaosat.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang quản lý IOC", "url": "https://ioc.ktxhcm.edu.vn", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang quản lý tài sản", "url": "https://qlts.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": true },
+    { "name": "Trang không gian văn hóa HCM", "url": "https://kgvhhcm.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang quản lý cây xanh", "url": "https://qlcayxanh.ktxhcm.edu.vn/user/login", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang thanh tra pháp chế", "url": "https://ttpc.ktxhcm.edu.vn", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang quản lý tài khoản", "url": "https://taikhoan.ktxhcm.edu.vn", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang hướng dẫn", "url": "https://huongdan.ktxhcm.edu.vn", "isIframe": false, "isSnapshot": false },
+	{ "name": "Trang tham quan", "url": "https://thamquan.ktxhcm.edu.vn", "isIframe": false, "isSnapshot": true },
+    { "name": "Trang thư viện hình ảnh", "url": "https://thuvienanh.ktxhcm.edu.vn", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang CNTT-DL", "url": "https://cntt-dl.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": false },
+    { "name": "Trang xác thực thông tin", "url": "https://id.ktxhcm.edu.vn/", "isIframe": false, "isSnapshot": false }
+]
