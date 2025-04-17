@@ -36,16 +36,20 @@ async function loadWebsites() {
 
 // Khởi tạo Puppeteer (singleton)
 async function launchBrowser() {
+  if (browser) return browser;
+
   const opts = {
     headless: true,
-    args: [ '--no-sandbox','--disable-setuid-sandbox' ],
+    args: ['--no-sandbox','--disable-setuid-sandbox','--disable-dev-shm-usage','--no-zygote'],
   };
   if (process.platform === 'win32') {
-    opts.executablePath = path.join(__dirname, 'chromium/.../chrome.exe');
+    opts.executablePath = path.join(__dirname, 'chromium', 'win64-135.0.7049.84', 'chrome-win64', 'chrome.exe');
   } else {
-    console.log('Using default Puppeteer executable:', puppeteer.executablePath());
+    console.log('Puppeteer default executablePath:', puppeteer.executablePath());
   }
-  return puppeteer.launch(opts);
+
+  browser = await puppeteer.launch(opts);
+  return browser;
 }
 
 // Delay helper
