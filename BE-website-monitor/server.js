@@ -36,19 +36,16 @@ async function loadWebsites() {
 
 // Khởi tạo Puppeteer (singleton)
 async function launchBrowser() {
-  if (browser) return browser;
-
-  browser = await puppeteer.launch({
+  // Trên Docker image Debian này, Chromium được cài tại /usr/bin/chromium
+  return puppeteer.launch({
     headless: true,
-    // executablePath: '/usr/bin/chromium-browser',   // Dùng binary hệ thống
-    executablePath: path.join(__dirname, 'chromium', 'chrome-linux', 'chrome'),
+    executablePath: '/usr/bin/chromium',
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-    ],
+      '--disable-dev-shm-usage'
+    ]
   });
-  return browser;
 }
 
 // Delay helper
