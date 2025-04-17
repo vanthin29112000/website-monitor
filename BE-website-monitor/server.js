@@ -41,7 +41,7 @@ async function launchBrowser() {
   browser = await puppeteer.launch({
     headless: true,
     // executablePath: '/usr/bin/chromium-browser',   // Dùng binary hệ thống
-    executablePath: path.join(__dirname, 'chromium', 'chrome-linux64', 'chrome'),
+    executablePath: path.join(__dirname, 'chromium', 'chrome-linux', 'chrome'),
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
