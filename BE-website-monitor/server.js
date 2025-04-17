@@ -38,17 +38,15 @@ async function loadWebsites() {
 async function launchBrowser() {
   if (browser) return browser;
 
-  const opts = {
+  browser = await puppeteer.launch({
     headless: true,
-    args: ['--no-sandbox','--disable-setuid-sandbox','--disable-dev-shm-usage','--no-zygote'],
-  };
-  if (process.platform === 'win32') {
-    opts.executablePath = path.join(__dirname, 'chromium', 'win64-135.0.7049.84', 'chrome-win64', 'chrome.exe');
-  } else {
-    console.log('Puppeteer default executablePath:', puppeteer.executablePath());
-  }
-
-  browser = await puppeteer.launch(opts);
+    executablePath: '/usr/bin/chromium-browser',   // Dùng binary hệ thống
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+    ],
+  });
   return browser;
 }
 
